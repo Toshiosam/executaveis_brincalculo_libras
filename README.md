@@ -1,83 +1,56 @@
-# Brincalculo em Libras: IA na Educação Inclusiva
+# Brincalculo em Libras: IA e Inclusão na Prática
 
 ![Demonstração do Brincalculo em Libras](URL_DO_SEU_GIF_AQUI)
-*<p align="center">Demonstração do Objeto de Aprendizagem Brincalculo em Libras.</p>*
+*<p align="center">Uma amostra da interação com o Objeto de Aprendizagem Brincalculo em Libras.</p>*
 
-O **Brincalculo em Libras** é um software educacional e um dos resultados práticos do projeto de pesquisa **"Libras 2D e 3D: Integrando IA e Educação"**. Utilizando Inteligência Artificial, o projeto oferece uma experiência de ensino de matemática totalmente acessível em Língua Brasileira de Sinais (Libras), destinada a alunos surdos da educação básica.
+Este repositório guarda mais do que um software. Ele representa o resultado prático de uma pesquisa, de uma inquietação e de um desejo de usar a tecnologia para uma educação verdadeiramente inclusiva. O **Brincalculo em Libras** é um dos frutos do projeto **"Libras 2D e 3D: Integrando IA e Educação"**, que só se tornou possível graças ao fomento da **Fundação Itaú**.
 
-Este trabalho é um exemplo de como a tecnologia pode ser uma poderosa ferramenta para a equidade educacional, e seu desenvolvimento foi viabilizado pelo apoio da **Fundação Itaú** através do edital "Inteligência Artificial e Educação".
+## O Ponto de Partida: Mais que Adaptação, uma Nova Perspectiva
 
-## 💡 Nossa Filosofia: Acessibilidade Nascida em Libras
+Sempre me incomodou a forma como a acessibilidade em Libras é tratada na maioria das tecnologias. Quase sempre, é uma adaptação, um recurso secundário. Uma pequena janela com um intérprete "traduzindo" um conteúdo que, em sua essência, não foi feito para a pessoa surda.
 
-Este projeto nasceu de uma inquietação com o modelo tradicional de acessibilidade digital para a comunidade surda. Frequentemente, a Libras é tratada como uma adaptação tardia: uma pequena janela com um intérprete explicando um conteúdo que não foi pensado originalmente para o público surdo.
+Acreditamos que a verdadeira inclusão exige uma mudança de paradigma.
 
-**O Brincalculo em Libras rejeita esse paradigma.**
+Para entender isso na prática, nosso primeiro passo foi realizar uma oficina na **ASNAT (Associação de Surdos de Natal)**. Em vez de chegar com soluções, chegamos com perguntas. Apresentamos a versão original do "Brincálculo" e observamos as barreiras. A conclusão foi unânime e reveladora: para ser acessível, a **Libras precisa ser a língua principal (L1)**, não um anexo. O português é a segunda língua (L2) para a comunidade surda.
 
-### O Ponto de Partida: Oficina na ASNAT
+O insight mais poderoso foi o desejo de se sentirem o público-alvo, os protagonistas. A comunicação não deveria vir de fora, de um intérprete. O próprio software, seu personagem, deveria se comunicar **diretamente com o aluno**. Esse princípio se tornou a alma do nosso projeto.
 
-No início do projeto, realizamos uma oficina na **ASNAT (Associação de Surdos de Natal)**. Apresentamos a versão original do software (sem acessibilidade) e perguntamos à comunidade: "O que é acessibilidade para vocês?". As dificuldades foram evidentes, e a resposta foi unânime: **Libras precisa ser a língua principal (L1), não um recurso opcional.**
+## A Validação: Testes em um Ambiente Real de Aprendizagem
 
-O feedback mais profundo foi o desejo de se sentirem o público principal. A comunicação não deveria vir de um intérpreprete "traduzindo" o software; o próprio software, através de seu avatar, deveria **falar diretamente com o usuário surdo**.
+Com essa filosofia em mente, desenvolvemos o Brincalculo em Libras. Para validar se nossa abordagem funcionava, levamos o software para ser testado no **CAS (Centro de Atendimento à Pessoa Surda) de Natal, RN**.
 
-### O Usuário Surdo como Protagonista
+A escolha do CAS foi intencional. A instituição atende alunos da rede pública de ensino do estado, com uma característica muito importante: as turmas não são organizadas por idade, mas sim pelo nível de desenvolvimento de cada aluno. Isso nos proporcionou um ambiente de teste diverso e autêntico, refletindo a realidade educacional que queremos impactar.
 
-Este princípio se tornou o pilar do nosso desenvolvimento. O avatar do Brincalculo em Libras não é um tradutor. Ele é o professor, o guia que olha para o aluno e se comunica em sua língua nativa. A experiência foi projetada do zero, pensando no usuário surdo como o protagonista.
+O feedback foi incrivelmente positivo. Os alunos se engajaram imediatamente. A validação veio ao observarmos que a comunicação com o avatar era fluida e direta. As expressões faciais, a clareza dos sinais, tudo contribuiu para uma experiência onde os alunos se sentiram representados e contemplados desde o início.
 
-### A Validação: Testes no CAS e na ASNAT
+## O que o Brincalculo em Libras Oferece
 
-Após o desenvolvimento, voltamos à **ASNAT** e também levamos o projeto ao **CAS (Centro de Atendimento à Pessoa Surda)** para validar a solução. A recepção positiva confirmou que nossa abordagem estava correta. A clareza dos sinais, a importância das expressões faciais do avatar e o engajamento dos usuários demonstraram o poder de criar tecnologia *com* a comunidade, e não apenas *para* ela.
+A experiência foi pensada do zero para ser intuitiva. A comunicação é toda em Libras, com um avatar que atua como professor e guia. As atividades de matemática são apresentadas de forma lúdica e visual, mantendo o espírito do "Brincálculo" original, um projeto do grupo **OBAMA (IMD/UFRN)** que você pode conhecer **[neste link](https://softwareducativo.github.io/Brincalculo/)**.
 
-## 📖 Histórico do Software Brincalculo
+Por trás de tudo, a Inteligência Artificial é a ferramenta que nos permitiu dar vida ao avatar. Utilizamos algoritmos de *pose estimation* para capturar os movimentos de intérpretes e, com *deep learning*, transferimos esses dados para as animações, buscando a maior fidelidade e naturalidade possível nos sinais.
 
-Este software é uma evolução acessível do **"Brincálculo"**, um Objeto de Aprendizagem originalmente concebido para o ensino de matemática nos anos iniciais. A versão original é um dos recursos do **OBAMA (Objetos de Aprendizagem para Matemática)**, uma iniciativa de pesquisa e extensão do Instituto Metrópole Digital (IMD) da UFRN, licenciado como Creative Commons (BY-NC-SA).
+## Como Instalar e Executar
 
-Você pode conferir a versão original aqui: **[Brincálculo Original](https://softwareducativo.github.io/Brincalculo/)**
+Disponibilizamos os arquivos executáveis para facilitar o acesso.
 
-## ✨ Principais Funcionalidades
+#### **Para Windows**
+1.  Baixe o arquivo `.exe`.
+2.  Execute-o diretamente. Não é preciso instalar nada.
 
-* **Conteúdo 100% em Libras:** Todas as instruções e feedbacks são apresentados por um avatar que se comunica diretamente com o usuário em Libras.
-* **Atividades Lúdicas de Matemática:** Exercícios de matemática básica apresentados de forma visual e interativa.
-* **Interface Simples e Intuitiva:** Design projetado para ser facilmente compreendido e utilizado por crianças.
-* **Tecnologia de IA Aplicada:** A Inteligência Artificial é o motor por trás dos avatares. Utilizamos algoritmos de **pose estimation** para capturar os movimentos de intérpretes de Libras e, com técnicas de **deep learning**, transferimos esses dados para animar os avatares de forma precisa e fluida.
+#### **Para Android**
+1.  Baixe o arquivo `.apk`.
+2.  Antes de instalar, pode ser necessário permitir a instalação de fontes externas no seu dispositivo. O caminho costuma ser: **Configurações > Segurança e privacidade > Desabilitar o Bloqueador automático**.
+3.  Abra o arquivo `.apk` para instalar.
 
-## 🚀 Como Instalar e Executar
+## O Futuro do Projeto
 
-Os arquivos executáveis estão disponíveis neste repositório. Siga as instruções para o seu sistema operacional:
+Este projeto está vivo e em constante evolução. O feedback valioso que recebemos no CAS já está guiando nossos próximos passos, que incluem a implementação de melhorias sugeridas pelos próprios alunos, a publicação de um tutorial técnico para que outros possam replicar essa ideia, e a futura hospedagem da versão web para acesso universal.
 
-### 💻 Windows
-1.  Baixe o arquivo com a extensão `.exe`.
-2.  Execute o arquivo para iniciar o Brincalculo. Nenhuma instalação adicional é necessária.
+## Agradecimentos
 
-### 📱 Android
-Para instalar o arquivo `.apk`, você precisará permitir a instalação de aplicativos de fontes externas temporariamente.
-
-1.  Baixe o arquivo `.apk` para o seu dispositivo.
-2.  Antes de instalar, habilite a permissão necessária. O caminho geralmente é:
-    * **Configurações > Segurança e privacidade > Bloqueador automático > Desabilitar**.
-    * *Observação: O caminho exato pode variar dependendo da marca e da versão do seu Android.*
-3.  Após desabilitar o bloqueio, toque no arquivo `.apk` baixado e siga as instruções para instalar.
-
-### 🌐 Versão Web
-Os arquivos `HTML` contidos neste repositório são destinados à futura hospedagem do Brincalculo em uma plataforma online, tornando-o ainda mais acessível.
-
-## 🛠️ Roteiro de Desenvolvimento (Roadmap)
-
-Com base no feedback valioso da comunidade surda de Natal/RN e em nossos planos de expansão, nossos próximos passos incluem:
-
--   [ ] Implementar melhorias sugeridas pela comunidade (ex: níveis de dificuldade, glossário de sinais).
--   [ ] Publicar um tutorial técnico detalhado sobre o processo de desenvolvimento.
--   [ ] Hospedar e lançar a versão online para acesso universal.
--   [ ] Criar novos módulos com mais conceitos matemáticos.
-
-## 📄 Licença
-
-Alinhado à sua origem acadêmica e ao espírito de colaboração, este projeto é distribuído sob a licença **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
-
-## 🙏 Agradecimentos
-
-Este trabalho é fruto de uma grande colaboração. Agradecemos especialmente:
-
-* À **Fundação Itaú** e ao edital de **IA e Educação**, pelo fomento e confiança que viabilizaram este projeto.
-* Às comunidades do **CAS (Centro de Atendimento à Pessoa Surda)** e da **ASNAT (Associação de Surdos de Natal)**, por nos guiarem desde a concepção e por validarem nosso trabalho. Vocês são a razão deste projeto existir.
-* Ao grupo de pesquisa **OBAMA** do **Instituto Metrópole Digital (UFRN)**, por criar a base sólida do Brincálculo original.
-* A **Amanda Maria de Oliveira**, pelo apoio inestimável e pela orientação extra-acadêmica.
+Este trabalho só existe por causa da colaboração. Nossa gratidão imensa:
+* À **Fundação Itaú**, por acreditar e fomentar projetos que unem IA e Educação.
+* À comunidade da **ASNAT**, que abriu suas portas e nos ensinou o verdadeiro significado de acessibilidade.
+* Aos alunos e profissionais do **CAS de Natal**, por testarem nossa ferramenta com tanta atenção e nos darem a certeza de que estávamos no caminho certo.
+* Ao grupo de pesquisa **OBAMA (IMD/UFRN)**, pela base sólida do Brincálculo original.
+* E a **Amanda Maria de Oliveira**, pelo apoio e orientação que foram além do acadêmico.
