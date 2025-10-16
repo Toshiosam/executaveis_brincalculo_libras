@@ -30,17 +30,39 @@ Por trás de tudo, a Inteligência Artificial é a ferramenta que nos permitiu d
 
 ## Como Instalar e Executar
 
-Disponibilizamos os arquivos executáveis para facilitar o acesso.
+Siga os passos abaixo para baixar e instalar o software no seu dispositivo.
 
-#### **Para Windows**
-1. Baixe o arquivo `.exe`.
-2. Dê um duplo clique no arquivo para iniciar o instalador.
-3. Siga as instruções na tela para concluir a instalação.
+### Passo 1: Onde Baixar os Arquivos 📦
 
-#### **Para Android**
-1. Baixe o arquivo `.apk`.
-2. Antes de instalar, pode ser necessário permitir a instalação de fontes externas no seu dispositivo. O caminho costuma ser: **Configurações > Segurança e privacidade > Desabilitar o Bloqueador automático**.
-3. Abra o arquivo `.apk` para instalar.
+Para quem nunca usou o GitHub, não se preocupe, é bem simples! Os arquivos prontos para instalar não ficam misturados com o código. Eles estão em uma seção especial chamada **"Releases"** (ou "Lançamentos").
+
+1.  Nesta página, olhe no menu lateral direito e clique em **[Releases](URL_DO_SEU_REPOSITORIO/releases)**.
+    * *(Dica: Se você estiver no celular, talvez precise rolar a página para baixo para encontrar esta seção).*
+
+2.  Você verá a versão mais recente do projeto, geralmente marcada com a etiqueta **"Latest"**.
+
+3.  Abaixo da descrição da versão, haverá uma seção chamada **"Assets"**. Clique nela para expandir a lista de arquivos.
+
+4.  Agora é só clicar no arquivo desejado para fazer o download:
+    * Para Windows, baixe o arquivo que termina em **`.exe`**.
+    * Para Android, baixe o arquivo que termina em **`.apk`**.
+
+![Imagem de exemplo mostrando onde clicar em "Releases" e "Assets"](https://i.imgur.com/g0Glb0c.png)
+*<p align="center">Exemplo de onde encontrar a seção de Releases e os arquivos para download (Assets).</p>*
+
+### Passo 2: Como Instalar em cada Sistema
+
+Depois de baixar o arquivo correto, siga as instruções para o seu sistema:
+
+#### **💻 Para Windows**
+1.  Encontre o arquivo `.exe` que você baixou.
+2.  Dê um duplo clique nele para iniciar o instalador.
+3.  Siga as instruções que aparecerão na tela para concluir a instalação.
+
+#### **📱 Para Android**
+1.  Encontre o arquivo `.apk` que você baixou.
+2.  Antes de instalar, pode ser necessário permitir a instalação de fontes externas no seu dispositivo. O caminho costuma ser: **Configurações > Segurança e privacidade > Desabilitar o Bloqueador automático**.
+3.  Abra o arquivo `.apk` para instalar.
 
 ## O Futuro do Projeto
 
