@@ -26,7 +26,7 @@ O principal objetivo do Brincalculo em Libras é oferecer uma experiência de ap
 * **Conteúdo 100% em Libras:** Todas as instruções, atividades e feedbacks são apresentados em Libras por meio de avatares ou vídeos.
 * **Atividades Lúdicas:** Exercícios de matemática básica (adição, subtração, etc.) apresentados de forma divertida e visual.
 * **Interface Simples e Intuitiva:** Design projetado para ser facilmente compreendido e utilizado por crianças.
-* **Uso de Inteligência Artificial:** A IA é utilizada para [**<-- Descreva brevemente aqui a aplicação da IA. Ex: "animar o avatar em Libras de forma fluida", "personalizar o nível das atividades", etc.**].
+* **Uso de Inteligência Artificial:** A IA é utilizada para [** para transferir os sinais em libras para um avatar estatico trazendo vida ao avatar e transferindo caracteristicas importantes como expressoes faciais e sinais com naturalidade sem movimentos robóticos **].
 
 ## 🚀 Como Instalar e Executar
 
@@ -55,7 +55,7 @@ Nossos planos para o futuro do projeto incluem:
 
 -   [ ] **Publicação de um tutorial técnico detalhado** sobre o processo de desenvolvimento, para que outras pessoas possam replicar e criar seus próprios objetos de aprendizagem.
 -   [ ] **Hospedagem e lançamento da versão online** para acesso universal.
--   [ ] **Criação de novos módulos** com conceitos matemáticos mais avançados.
+-   [ ] **Criação de novos Objetos junto a comunidade surda** com conceitos matemáticos mais avançados.
 
 ## 📄 Licença
 
