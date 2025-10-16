@@ -34,13 +34,14 @@ Por trás de tudo, a Inteligência Artificial é a ferramenta que nos permitiu d
 Disponibilizamos os arquivos executáveis para facilitar o acesso.
 
 #### **Para Windows**
-1.  Baixe o arquivo `.exe`.
-2.  Execute-o diretamente. Não é preciso instalar nada.
+1. Baixe o arquivo `.exe`.
+2. Dê um duplo clique no arquivo para iniciar o instalador.
+3. Siga as instruções na tela para concluir a instalação.
 
 #### **Para Android**
-1.  Baixe o arquivo `.apk`.
-2.  Antes de instalar, pode ser necessário permitir a instalação de fontes externas no seu dispositivo. O caminho costuma ser: **Configurações > Segurança e privacidade > Desabilitar o Bloqueador automático**.
-3.  Abra o arquivo `.apk` para instalar.
+1. Baixe o arquivo `.apk`.
+2. Antes de instalar, pode ser necessário permitir a instalação de fontes externas no seu dispositivo. O caminho costuma ser: **Configurações > Segurança e privacidade > Desabilitar o Bloqueador automático**.
+3. Abra o arquivo `.apk` para instalar.
 
 ## O Futuro do Projeto
 
@@ -52,6 +53,6 @@ Este trabalho só existe por causa da colaboração. Nossa gratidão imensa:
 * À **Fundação Itaú**, por acreditar e fomentar projetos que unem IA e Educação.
 * À comunidade da **ASNAT**, que abriu suas portas e nos ensinou o verdadeiro significado de acessibilidade.
 * Aos alunos e profissionais do **CAS de Natal**, por testarem nossa ferramenta com tanta atenção e nos darem a certeza de que estávamos no caminho certo.
-* Ao grupo de pesquisa **OBAMA (IMD/UFRN)**, pela base sólida do Brincálculo original. 
-* À **Amanda Maria de Oliveira**, tech lider do grupo Obama pelo apoio e orientação que foram além do acadêmico.
-* À todos os participantes e contribuintes da equipe  do projeto Libras 2D e 3D.
+* Ao grupo de pesquisa **OBAMA (IMD/UFRN)**, pela base sólida do Brincálculo original.
+* À **Amanda Maria de Oliveira**, tech líder do grupo OBAMA, pelo apoio e orientação que foram além do acadêmico.
+* A todos os participantes e contribuintes da equipe do projeto **Libras 2D e 3D**.
