@@ -1,7 +1,6 @@
 # Brincalculo em Libras: IA e Inclusão na Prática
 
-![Demonstração do Brincalculo em Libras](URL_DO_SEU_GIF_AQUI)
-*<p align="center">Uma amostra da interação com o Objeto de Aprendizagem Brincalculo em Libras.</p>*
+
 
 Este repositório guarda mais do que um software. Ele representa o resultado prático de uma pesquisa, de uma inquietação e de um desejo de usar a tecnologia para uma educação verdadeiramente inclusiva. O **Brincalculo em Libras** é um dos frutos do projeto **"Libras 2D e 3D: Integrando IA e Educação"**, que só se tornou possível graças ao fomento da **Fundação Itaú**.
 
