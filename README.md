@@ -67,3 +67,5 @@ Este trabalho é fruto de uma grande colaboração. Agradecemos especialmente:
 * À **Fundação Itaú** e ao edital de **IA e Educação**, pelo fomento e confiança que viabilizaram o projeto "Libras 2D e 3D".
 * Ao grupo de pesquisa **OBAMA** do **Instituto Metrópole Digital (UFRN)**, por criar a base sólida do Brincálculo original e por sua filosofia de conhecimento aberto.
 * A **Amanda Maria de Oliveira**, pelo apoio inestimável e pela orientação extra-acadêmica.
+* A todos os membros da equipe Libras 2D e 3D.
+
