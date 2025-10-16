@@ -36,7 +36,7 @@ Siga os passos abaixo para baixar e instalar o software no seu dispositivo.
 
 Para quem nunca usou o GitHub, não se preocupe, é bem simples! Os arquivos prontos para instalar não ficam misturados com o código. Eles estão em uma seção especial chamada **"Releases"** (ou "Lançamentos").
 
-1.  Nesta página, olhe no menu lateral direito e clique em **[Releases](URL_DO_SEU_REPOSITORIO/releases)**.
+1.  Nesta página, olhe no menu lateral direito e clique em **[Releases](https://github.com/Toshiosam/executaveis_brincalculo_libras/releases/tag/version1)**.
     * *(Dica: Se você estiver no celular, talvez precise rolar a página para baixo para encontrar esta seção).*
 
 2.  Você verá a versão mais recente do projeto, geralmente marcada com a etiqueta **"Latest"**.
@@ -47,8 +47,6 @@ Para quem nunca usou o GitHub, não se preocupe, é bem simples! Os arquivos pro
     * Para Windows, baixe o arquivo que termina em **`.exe`**.
     * Para Android, baixe o arquivo que termina em **`.apk`**.
 
-![Imagem de exemplo mostrando onde clicar em "Releases" e "Assets"](https://i.imgur.com/g0Glb0c.png)
-*<p align="center">Exemplo de onde encontrar a seção de Releases e os arquivos para download (Assets).</p>*
 
 ### Passo 2: Como Instalar em cada Sistema
 
