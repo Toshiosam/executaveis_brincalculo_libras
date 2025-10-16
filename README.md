@@ -1,31 +1,41 @@
 # Brincalculo em Libras: IA na Educação Inclusiva
 
-![GIF ou Imagem do Brincalculo em Libras em ação](https://placehold.co/800x400.png?text=Insira+aqui+um+GIF+do+seu+software!)
+![Demonstração do Brincalculo em Libras](URL_DO_SEU_GIF_AQUI)
 *<p align="center">Demonstração do Objeto de Aprendizagem Brincalculo em Libras.</p>*
 
-O **Brincalculo em Libras** é um software educacional e um dos primeiros resultados práticos do projeto de pesquisa **"Libras 2D e 3D: Integrando IA e Educação"**. Este Objeto de Aprendizagem utiliza Inteligência Artificial para criar uma experiência de ensino de matemática totalmente acessível em Língua Brasileira de Sinais (Libras), destinada a alunos surdos da educação básica.
+O **Brincalculo em Libras** é um software educacional e um dos resultados práticos do projeto de pesquisa **"Libras 2D e 3D: Integrando IA e Educação"**. Utilizando Inteligência Artificial, o projeto oferece uma experiência de ensino de matemática totalmente acessível em Língua Brasileira de Sinais (Libras), destinada a alunos surdos da educação básica.
 
-Este trabalho é um exemplo de como a tecnologia pode ser uma poderosa ferramenta para a equidade educacional. Seu desenvolvimento foi viabilizado pelo apoio da **Fundação Itaú** através do edital "Inteligência Artificial e Educação".
+Este trabalho é um exemplo de como a tecnologia pode ser uma poderosa ferramenta para a equidade educacional, e seu desenvolvimento foi viabilizado pelo apoio da **Fundação Itaú** através do edital "Inteligência Artificial e Educação".
 
-## 🧬 Sobre o Projeto "Libras 2D e 3D"
+## 💡 Nossa Filosofia: Acessibilidade Nascida em Libras
 
-O Brincalculo em Libras nasceu dentro de um contexto maior de pesquisa e inovação. O projeto **"Libras 2D e 3D"** tem como objetivo geral desenvolver e testar novas metodologias para a criação de recursos educacionais em Libras, utilizando tecnologias de ponta.
+Este projeto nasceu de uma inquietação com o modelo tradicional de acessibilidade digital para a comunidade surda. Frequentemente, a Libras é tratada como uma adaptação tardia: uma pequena janela com um intérprete explicando um conteúdo que não foi pensado originalmente para o público surdo.
 
-A iniciativa parte da constatação da significativa lacuna de materiais didáticos acessíveis, que historicamente limita a inclusão plena de alunos surdos. Para superar essa barreira, o projeto utiliza **Inteligência Artificial**, com técnicas de *pose estimation* e *deep learning*, para capturar os movimentos de intérpretes de Libras e transferi-los com precisão para avatares 2D e 3D.
+**O Brincalculo em Libras rejeita esse paradigma.**
 
-Esses avatares se tornam os protagonistas dos materiais educativos, garantindo uma comunicação clara, natural e culturalmente relevante, contribuindo diretamente para a equidade e a redução das desigualdades na educação pública brasileira.
+### O Ponto de Partida: Oficina na ASNAT
+
+No início do projeto, realizamos uma oficina na **ASNAT (Associação de Surdos de Natal)**. Apresentamos a versão original do software (sem acessibilidade) e perguntamos à comunidade: "O que é acessibilidade para vocês?". As dificuldades foram evidentes, e a resposta foi unânime: **Libras precisa ser a língua principal (L1), não um recurso opcional.**
+
+O feedback mais profundo foi o desejo de se sentirem o público principal. A comunicação não deveria vir de um intérpreprete "traduzindo" o software; o próprio software, através de seu avatar, deveria **falar diretamente com o usuário surdo**.
+
+### O Usuário Surdo como Protagonista
+
+Este princípio se tornou o pilar do nosso desenvolvimento. O avatar do Brincalculo em Libras não é um tradutor. Ele é o professor, o guia que olha para o aluno e se comunica em sua língua nativa. A experiência foi projetada do zero, pensando no usuário surdo como o protagonista.
+
+### A Validação: Testes no CAS e na ASNAT
+
+Após o desenvolvimento, voltamos à **ASNAT** e também levamos o projeto ao **CAS (Centro de Atendimento à Pessoa Surda)** para validar a solução. A recepção positiva confirmou que nossa abordagem estava correta. A clareza dos sinais, a importância das expressões faciais do avatar e o engajamento dos usuários demonstraram o poder de criar tecnologia *com* a comunidade, e não apenas *para* ela.
 
 ## 📖 Histórico do Software Brincalculo
 
-Este software é uma evolução acessível do **"Brincálculo"**, um Objeto de Aprendizagem originalmente concebido para o ensino de matemática nos anos iniciais do Ensino Fundamental. A versão original é um dos recursos do **OBAMA (Objetos de Aprendizagem para Matemática)**, uma iniciativa de pesquisa e extensão do Instituto Metrópole Digital (IMD) da UFRN, licenciado como Creative Commons (BY-NC-SA).
+Este software é uma evolução acessível do **"Brincálculo"**, um Objeto de Aprendizagem originalmente concebido para o ensino de matemática nos anos iniciais. A versão original é um dos recursos do **OBAMA (Objetos de Aprendizagem para Matemática)**, uma iniciativa de pesquisa e extensão do Instituto Metrópole Digital (IMD) da UFRN, licenciado como Creative Commons (BY-NC-SA).
 
-Esta nova versão foi totalmente reformulada dentro do projeto "Libras 2D e 3D" para incorporar a Língua Brasileira de Sinais, transformando-o em uma ferramenta de inclusão.
-
-Você pode conferir a versão original neste link: **[Brincálculo Original](https://softwareducativo.github.io/Brincalculo/)**
+Você pode conferir a versão original aqui: **[Brincálculo Original](https://softwareducativo.github.io/Brincalculo/)**
 
 ## ✨ Principais Funcionalidades
 
-* **Conteúdo 100% em Libras:** Todas as instruções, atividades e feedbacks são apresentados por avatares em Libras, garantindo comunicação direta e sem barreiras.
+* **Conteúdo 100% em Libras:** Todas as instruções e feedbacks são apresentados por um avatar que se comunica diretamente com o usuário em Libras.
 * **Atividades Lúdicas de Matemática:** Exercícios de matemática básica apresentados de forma visual e interativa.
 * **Interface Simples e Intuitiva:** Design projetado para ser facilmente compreendido e utilizado por crianças.
 * **Tecnologia de IA Aplicada:** A Inteligência Artificial é o motor por trás dos avatares. Utilizamos algoritmos de **pose estimation** para capturar os movimentos de intérpretes de Libras e, com técnicas de **deep learning**, transferimos esses dados para animar os avatares de forma precisa e fluida.
@@ -47,25 +57,27 @@ Para instalar o arquivo `.apk`, você precisará permitir a instalação de apli
     * *Observação: O caminho exato pode variar dependendo da marca e da versão do seu Android.*
 3.  Após desabilitar o bloqueio, toque no arquivo `.apk` baixado e siga as instruções para instalar.
 
+### 🌐 Versão Web
+Os arquivos `HTML` contidos neste repositório são destinados à futura hospedagem do Brincalculo em uma plataforma online, tornando-o ainda mais acessível.
+
 ## 🛠️ Roteiro de Desenvolvimento (Roadmap)
 
-Este repositório representa um dos produtos do projeto. Nossos próximos passos incluem:
+Com base no feedback valioso da comunidade surda de Natal/RN e em nossos planos de expansão, nossos próximos passos incluem:
 
--   [ ] **Disseminação da Metodologia:** Publicar um tutorial técnico e uma documentação detalhada do processo, alinhado ao objetivo de disseminação científica do projeto "Libras 2D e 3D".
--   [ ] **Hospedagem da Versão Online:** Tornar o Brincalculo acessível universalmente através de um navegador web.
--   [ ] **Criação de Novos Módulos:** Expandir o software com novos conceitos matemáticos e atividades.
--   [ ] **Testes e Avaliação de Eficácia:** Realizar testes formais com alunos surdos para coletar feedback e avaliar o impacto pedagógico da ferramenta.
+-   [ ] Implementar melhorias sugeridas pela comunidade (ex: níveis de dificuldade, glossário de sinais).
+-   [ ] Publicar um tutorial técnico detalhado sobre o processo de desenvolvimento.
+-   [ ] Hospedar e lançar a versão online para acesso universal.
+-   [ ] Criar novos módulos com mais conceitos matemáticos.
 
 ## 📄 Licença
 
-Alinhado à sua origem acadêmica e ao espírito de colaboração, este projeto é distribuído sob a licença **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**. Você é livre para compartilhar e adaptar este material, desde que dê o crédito apropriado, não o utilize para fins comerciais e distribua suas contribuições sob a mesma licença.
+Alinhado à sua origem acadêmica e ao espírito de colaboração, este projeto é distribuído sob a licença **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
 
 ## 🙏 Agradecimentos
 
 Este trabalho é fruto de uma grande colaboração. Agradecemos especialmente:
 
-* À **Fundação Itaú** e ao edital de **IA e Educação**, pelo fomento e confiança que viabilizaram o projeto "Libras 2D e 3D".
-* Ao grupo de pesquisa **OBAMA** do **Instituto Metrópole Digital (UFRN)**, por criar a base sólida do Brincálculo original e por sua filosofia de conhecimento aberto.
+* À **Fundação Itaú** e ao edital de **IA e Educação**, pelo fomento e confiança que viabilizaram este projeto.
+* Às comunidades do **CAS (Centro de Atendimento à Pessoa Surda)** e da **ASNAT (Associação de Surdos de Natal)**, por nos guiarem desde a concepção e por validarem nosso trabalho. Vocês são a razão deste projeto existir.
+* Ao grupo de pesquisa **OBAMA** do **Instituto Metrópole Digital (UFRN)**, por criar a base sólida do Brincálculo original.
 * A **Amanda Maria de Oliveira**, pelo apoio inestimável e pela orientação extra-acadêmica.
-* A todos os membros da equipe Libras 2D e 3D.
-
