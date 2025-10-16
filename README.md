@@ -58,4 +58,12 @@ Este repositório representa um dos produtos do projeto. Nossos próximos passos
 
 ## 📄 Licença
 
-Alinhado à sua origem acadêmica e ao espírito de colaboração, este projeto é distribuído sob a licença **Creative Commons Atribuição-Não
+Alinhado à sua origem acadêmica e ao espírito de colaboração, este projeto é distribuído sob a licença **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**. Você é livre para compartilhar e adaptar este material, desde que dê o crédito apropriado, não o utilize para fins comerciais e distribua suas contribuições sob a mesma licença.
+
+## 🙏 Agradecimentos
+
+Este trabalho é fruto de uma grande colaboração. Agradecemos especialmente:
+
+* À **Fundação Itaú** e ao edital de **IA e Educação**, pelo fomento e confiança que viabilizaram o projeto "Libras 2D e 3D".
+* Ao grupo de pesquisa **OBAMA** do **Instituto Metrópole Digital (UFRN)**, por criar a base sólida do Brincálculo original e por sua filosofia de conhecimento aberto.
+* A **Amanda Maria de Oliveira**, pelo apoio inestimável e pela orientação extra-acadêmica.
