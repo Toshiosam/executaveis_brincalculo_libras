@@ -52,5 +52,6 @@ Este trabalho só existe por causa da colaboração. Nossa gratidão imensa:
 * À **Fundação Itaú**, por acreditar e fomentar projetos que unem IA e Educação.
 * À comunidade da **ASNAT**, que abriu suas portas e nos ensinou o verdadeiro significado de acessibilidade.
 * Aos alunos e profissionais do **CAS de Natal**, por testarem nossa ferramenta com tanta atenção e nos darem a certeza de que estávamos no caminho certo.
-* Ao grupo de pesquisa **OBAMA (IMD/UFRN)**, pela base sólida do Brincálculo original.
-* E a **Amanda Maria de Oliveira**, pelo apoio e orientação que foram além do acadêmico.
+* Ao grupo de pesquisa **OBAMA (IMD/UFRN)**, pela base sólida do Brincálculo original. 
+* À **Amanda Maria de Oliveira**, tech lider do grupo Obama pelo apoio e orientação que foram além do acadêmico.
+* À todos os participantes e contribuintes da equipe  do projeto Libras 2D e 3D.
